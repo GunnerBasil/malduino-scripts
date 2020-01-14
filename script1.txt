@@ -1,3 +1,4 @@
+REM Changes the desktop background on a Chromebook
 CTRL t
 STRING gunnerbasil.github.io/prank.html
 ENTER
